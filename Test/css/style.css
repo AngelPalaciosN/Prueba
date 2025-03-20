@@ -30,4 +30,8 @@ header .navbar-brand {
   font-weight: bold;
   margin: 0 auto;
 }
+
+#carousel {
+  background-color: #413e3e;
+}
 /*# sourceMappingURL=style.css.map */
