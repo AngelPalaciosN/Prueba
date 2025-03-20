@@ -1,0 +1,33 @@
+.card {
+  background-color: #413e3e;
+  color: #ffffff;
+  height: 20rem;
+}
+
+body {
+  background-color: #dceffb;
+}
+
+.bg-light {
+  background-color: #e6f4ea !important;
+}
+
+.container {
+  padding: 1rem;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 5rem;
+  padding: 0 2rem;
+}
+
+header .navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
